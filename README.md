@@ -4,7 +4,7 @@
 
 <h3>Getting Started</h3>
 
-<p>To run the game, you need to have Python installed on your system. Once Python is installed, you can download the code files from the repository and run the game from your terminal or IDE.</p>
+<p>To run the game, you need to have Python installed on your system. Once Python is installed, you can download the code files from the repository and launch the game from your terminal or IDE by running main.py</p>
 
 <h3>How to Play</h3>
 
