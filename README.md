@@ -9,12 +9,3 @@
 <h3>How to Play</h3>
 
 <p>When you run the game, a random word will be selected from the list of words, and the number of blank spaces for the letters in the word will be displayed. The user can input a letter and the game will check if the letter is correct. If the letter is correct, the game will display the letter in the blank spaces. If the letter is incorrect, the game will display a part of a hanging man. The user can keep guessing letters until they guess the word or the hanging man is fully displayed.</p>
-
-<h3>Game Rules</h3>
-
-<p>The game has the following rules:</p>
-
-<p>The user has a certain number of attempts to guess the word before the hanging man is fully displayed.
-The user can only guess one letter at a time.
-The user cannot guess the same letter twice.
-The game will display a message if the user has already guessed a letter.</p>
