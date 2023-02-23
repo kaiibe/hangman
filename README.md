@@ -8,4 +8,8 @@
 
 <h3>How to Play</h3>
 
-<p>When you run the game, a random word will be selected from the list of words, and the number of blank spaces for the letters in the word will be displayed. The user can input a letter and the game will check if the letter is correct. If the letter is correct, the game will display the letter in the blank spaces. If the letter is incorrect, the game will display a part of a hanging man. The user can keep guessing letters until they guess the word or the hanging man is fully displayed.</p>
+<p>When you run the Hangman game, a random word will be selected from a pre-defined list of words. The game will then display a series of underscores representing each letter in the word, like this: '_ _ _ _ _ _'.</p>
+<p>The player's goal is to guess the word by inputting one letter at a time. If the letter is correct, the game will replace the corresponding underscore with the correct letter. For example, if the word was "banana" and the player correctly guessed the letter "a", the game would display: '_ a _ a _ a'.</p>
+<p>If the player guesses an incorrect letter, the game will display a part of a hangman drawing. The hangman drawing will gradually become more complete with each incorrect guess. If the player guesses incorrectly too many times, the hangman will be fully displayed and the game will end.</p>
+<p>The player can keep guessing letters until they either successfully guess the word, or the hangman drawing is fully displayed. If the player successfully guesses the word before the hangman drawing is fully displayed, they win the game. If the hangman drawing is fully displayed before the player successfully guesses the word, they lose the game.</p>
+<p>That's it! Have fun playing Hangman!.</p>
